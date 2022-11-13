@@ -1,4 +1,4 @@
-# WebClass
+# *WebClass*
 
 #### This project was created as part of Inspirathon 2022 Hackathon.
 
