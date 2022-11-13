@@ -35,12 +35,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 <hr/>
 
-# For Live Demo visit : https://webclasswithai.vercel.app/
-### For joining classroom use code: 30271
-### (For better experience use Desktop mode)
-
-<hr/>
-
 # Screenshots
 ### Landing page
 ![Landing](https://s4.gifyu.com/images/landing.png)
