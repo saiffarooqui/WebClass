@@ -1,0 +1,38 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.11",
+    "@chakra-ui/react": "^2.3.7",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "framer-motion": "^7.6.4",
+    "moment": "^2.29.4",
+    "mongoose": "^6.7.1",
+    "next": "^12.3.1",
+    "next-auth": "^4.15.0",
+    "openai": "^3.0.1",
+    "pusher": "^5.1.1-beta",
+    "pusher-js": "^7.4.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-google-charts": "^4.0.0",
+    "react-hook-form": "^7.39.1",
+    "react-icons": "^4.6.0",
+    "react-notifications-menu": "^1.0.6",
+    "react-toastify": "^9.1.1",
+    "sentiment": "^5.0.2",
+    "spectre.css": "^0.5.9"
+  },
+  "devDependencies": {
+    "eslint": "8.26.0",
+    "eslint-config-next": "13.0.1"
+  }
+}

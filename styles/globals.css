@@ -1,0 +1,42 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+}
+
+
+.message-input {
+  padding: 10px;
+  border-radius: 10px;
+  margin-right: 10px;
+  width: 300px;
+}
+
+.add-notification-button {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  font-weight: 500;
+  border-radius: 10px;
+}
